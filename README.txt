@@ -1,3 +1,15 @@
+users:
+admin:
+username:bookstore
+password:bookstore
+
+Authenticated:
+username:max
+password:max
+
+Reviewer
+username:steve
+password:steve
 
 CONTENTS OF THIS FILE
 ---------------------
